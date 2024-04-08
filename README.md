@@ -10,10 +10,12 @@ A simple and elegant To-Do List app built with SwiftUI. This app demonstrates th
 
 ## Screenshots
 
-<img width="335" alt="1" src="https://github.com/aavashism/ToDoList-IOS-app/assets/77792660/104b1462-018c-4988-9449-e77f6f8feb16">
-<img width="335" alt="2" src="https://github.com/aavashism/ToDoList-IOS-app/assets/77792660/260eb55e-e91c-4855-aff9-ef5209bff5fb">
-<img width="335" alt="3" src="https://github.com/aavashism/ToDoList-IOS-app/assets/77792660/50640b52-d5ed-4106-ba8f-7e9046666f8c">
-<img width="335" alt="4" src="https://github.com/aavashism/ToDoList-IOS-app/assets/77792660/63a8a9f1-47b5-4632-8f0d-cbe9c6056882">
+<p float="left">
+  <img src="https://github.com/aavashism/ToDoList-IOS-app/raw/main/assets/77792660/104b1462-018c-4988-9449-e77f6f8feb16.png" width="335" alt="Screenshot 1">
+  <img src="https://github.com/aavashism/ToDoList-IOS-app/raw/main/assets/77792660/260eb55e-e91c-4855-aff9-ef5209bff5fb.png" width="335" alt="Screenshot 2">
+  <img src="https://github.com/aavashism/ToDoList-IOS-app/raw/main/assets/77792660/50640b52-d5ed-4106-ba8f-7e9046666f8c.png" width="335" alt="Screenshot 3">
+  <img src="https://github.com/aavashism/ToDoList-IOS-app/raw/main/assets/77792660/63a8a9f1-47b5-4632-8f0d-cbe9c6056882.png" width="335" alt="Screenshot 4">
+</p>
 
 
 ## Installation
@@ -51,6 +53,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - Aavash Upadhyaya
 
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
+Project Link: https://github.com/aavashism/ToDoList-IOS-app
